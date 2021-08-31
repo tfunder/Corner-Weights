@@ -1,0 +1,12 @@
+Arduino - I've used Nano and not tested on any other devices, but they should work.
+4 x HX711 load cell amplifiers. The y come in 'green' and 'red'. The red is said to have better shielding, so that's what I chose
+4 x 16x2 I2C LCD Displays
+1 x 20x4 I2C LCD Displays
+4 button keypad
+3.5mm power socket
+On/Off switch
+Some kind of housing
+7-12v power supply. I had a 9v so that's what I'm using.
+Connectors - I had RJ45 in the box-of-many-things and Cat5/6 cables are cheap and plenty (and comes in different colors) :-)
+Hot glue - universal insulation material
+3D Print - I printed the labels and stuck them on with doublesided tape. I also made a faceplate that fitted the box I had. First prototype actually looked good enough that I ended up with that.
